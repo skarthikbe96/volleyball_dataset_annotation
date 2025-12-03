@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow folders
+!*/
+
+# Allow python files
+!*.py
+
+# Keep .gitignore
+!.gitignore
+
